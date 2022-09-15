@@ -1,6 +1,6 @@
 # Spectrum Improvement Proposals
 
-This repositoty is a location to record high-level descriptions of all potential improvements to Spectrum (ErgoDEX) platform.
+This repository is a location to record high-level descriptions of all potential improvements to the Spectrum ecosystem.
 
 ## Layout
 
